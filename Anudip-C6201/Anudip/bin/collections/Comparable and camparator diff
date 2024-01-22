@@ -1,0 +1,12 @@
++---------------------------------------------------+-----------------------------------------------+
+|    Comparable						                |    Comparator 								|
++---------------------------------------------------+-----------------------------------------------+
+|1. it is implemented directly in pojo Class        | 1. it is implemented on separate class		|
+|                  							        |											    |
+|2. Allows to compare obj on single property only   | 2. It allows you to compare on diff ways	    |
+|	             					                |											    |
+|3. It is in Java.lang package	                    | 3. It is Java.util package		            |
+|                                                   |											    |
+|4. It has abstract method - 		                | 4. It has abstract method 				    |
+|    compareTo(Object obj);			                |	compare(Object o1 , Object o2);			    |
++---------------------------------------------------+-----------------------------------------------+	

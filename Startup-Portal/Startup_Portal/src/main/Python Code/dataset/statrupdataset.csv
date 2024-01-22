@@ -1,0 +1,101 @@
+Sr_No	Startup_Name	Startup_Age	Number_of_Partners	Annual_Turnover( in crore )	Required_Invesment(in crore ) 	ReturnType	Return_Percentage
+1	ModernWeponaries	0	1	100	5	Yearly	20
+2	Shop 101	6	6	5	8	Quarterly	2
+3	Sambandh	2	4	2.5	5	Yearly	17
+4	19th mile	3	7	6	7	Monthly	5
+5	5th Vital	5	5	2	4	Yearly	11
+6	MEngage	1	3	8	6	Quarterly	3
+7	Ofbusiness	4	6	5.5	4.5	Monthly	7
+8	Cars24	2	8	7	12	Yearly	18
+9	The Ken	5	5	4	15	Quarterly	2.5
+10	Book My Show	3	9	6	10	Quarterly	2
+11	HousingMan	6	4	5	8	Monthly	1
+12	PaySense	3	10	8	18	Yearly	22
+13	Yulu Bikes	2	6	4.5	13	Quarterly	2.9
+14	VTION	1	5	3	7	Yearly	23.5
+15	Log9 Materials	4	9	4.5	12	Yearly	20
+16	kidovators	5	3	5	9	Monthly	6
+17	Digit	2	2	1.5	5	Monthly	4
+18	Black Soil	6	10	6.5	10	Yearly	19.5
+19	Trell	3	4	3	11	Yearly	11.5
+20	iqlect	4	6	5.5	13	Yearly	24
+21	Entropik	5	3	4	6	Quarterly	1.9
+22	Bitla Software	2	8	7.5	16	Quarterly	2.6
+23	TheCapitalNet	5	6	4	15	Yearly	22
+24	Shuttl	1	3	2	7	Monthly	0.4
+25	Cure Fit	6	6	7	18	Quarterly	2.4
+26	Five Star Group	4	5	4.5	10	Quarterly	2.9
+27	Healthsignz	2	7	1.5	5	Yearly	20
+28	CoinTribe	4	9	8	15	Quarterly	3
+29	Digiconectt	5	3	6	10	Monthly	1
+30	Kashmir Box	6	5	7.5	14	Yearly	19.5
+31	owdera	2	4	2.5	9	Quarterly	3
+32	Zoctr	3	7	3.5	13	Yearly	17
+33	Annapurna Finance	6	9	5.5	10	Quarterly	2.7
+34	Meesho	1	10	1	7	Monthly	0.7
+35	AyeFinance	4	4	4	8	Quarterly	2.3
+36	Theranosis	2	6	3.4	15	Yearly	21.5
+37	Alpha Capital	5	3	5	10	Quarterly	1.9
+38	eshakti	6	8	5.5	17	Quarterly	2.2
+39	Daily Ninja	4	5	4	12	Yearly	23
+40	NirogStreet	1	9	1.5	7	Monthly	0.5
+41	Nivesh	3	6	4.5	14	Yearly	18.5
+42	Sigtuple	5	5	3	8	Quarterly	3
+43	HomeLane	2	7	5	14	Yearly	19.3
+44	Network Intelligence	4	3	4.4	7	Quarterly	2.9
+45	Tynor Othontics	6	4	6.5	15	Yearly	24
+46	Elucidata	3	8	4.3	6	Quarterly	2.9
+47	Chrysalis	1	3	2	14	Quarterly	2
+48	RentSher	4	10	4.5	13	Monthly	0.9
+49	Drip capital	5	5	3.8	6	Yearly	20.5
+50	WickedRide	2	4	6	8	Quarterly	3
+51	elong	2	6	4.5	13	Quarterly	2.9
+52	Ixigo	1	5	3	7	Yearly	23.5
+53	SkillAngels	4	9	4.5	12	Yearly	20
+54	Vidgyor	5	3	5	9	Monthly	6
+55	Banihal	2	2	1.5	5	Monthly	4
+56	Goodservice	6	10	6.5	10	Yearly	19.5
+57	Treebo	3	4	3	11	Yearly	11.5
+58	EduKart	4	6	5.5	13	Yearly	24
+59	Healthians.com	5	3	4	6	Quarterly	1.9
+60	LabInApp	2	8	7.5	16	Quarterly	2.6
+61	Syona Cosmetics	5	6	4	15	Yearly	22
+62	Sigrid Education	1	3	2	7	Monthly	0.4
+63	Indix	6	6	7	18	Quarterly	2.4
+64	The Porter	4	5	4.5	10	Quarterly	2.9
+65	Retention.ai	2	7	1.5	5	Yearly	20
+66	Fusion Microfinance	4	9	8	15	Quarterly	3
+67	Zinka	5	3	6	10	Monthly	1
+68	CreditMantri	6	5	7.5	14	Yearly	19.5
+69	GetMyPeon	2	4	2.5	9	Quarterly	3
+70	UrbanClap	3	7	3.5	13	Yearly	17
+71	StayGlad	6	9	5.5	10	Quarterly	2.7
+72	AdWyze	3	5	2	5	Yearly	15
+73	Zimmber	6	6	5	8	Quarterly	2
+74	Buttercups	2	4	2.5	5	Yearly	17
+75	RailYatri	3	7	6	7	Monthly	5
+76	aagaar.com	5	5	2	4	Yearly	11
+77	Flatchat	1	3	8	6	Quarterly	3
+78	MyCFO	4	6	5.5	4.5	Monthly	7
+79	Foodpanda	2	8	7	12	Yearly	18
+80	Termsheet	5	5	4	15	Quarterly	2.5
+81	Applicate	3	9	6	10	Quarterly	2
+82	World Art Community	6	4	5	8	Monthly	1
+83	SpoonJoy	3	10	8	18	Yearly	22
+84	Seed Schools	2	6	4.5	13	Quarterly	2.9
+85	Ignis Careers	1	5	3	7	Yearly	23.5
+86	Square Yards	4	9	4.5	12	Yearly	20
+87	Fintellix	5	3	5	9	Monthly	6
+88	Customer360	2	2	1.5	5	Monthly	4
+89	Delhivery	6	10	6.5	10	Yearly	19.5
+90	Swiggy	3	4	3	11	Yearly	11.5
+91	Uniphore	4	6	5.5	13	Yearly	24
+92	Box8	5	3	4	6	Quarterly	1.9
+93	Toppr	2	8	7.5	16	Quarterly	2.6
+94	Vedantu	5	6	4	15	Yearly	22
+95	BuyHatke	1	3	2	7	Monthly	0.4
+96	KleverKid	5	3	4	6	Quarterly	1.9
+97	Uniken	2	8	7.5	16	Quarterly	2.6
+98	GrandOpinion	5	6	4	15	Yearly	22
+99	HealthifyMe	1	3	2	7	Monthly	0.4
+100	ZapStitch	6	6	7	18	Quarterly	2.4

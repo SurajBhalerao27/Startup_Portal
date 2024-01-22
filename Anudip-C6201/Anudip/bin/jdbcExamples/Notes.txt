@@ -1,0 +1,20 @@
+Diff betn statement and preparedStatement
+
+1. Statement is parent interface
+	PreparedStatement is extends the statement.
+	
+2. When using statement the sql query is passed at the last moment when we execute the executeUpdate(sql)
+   or executeQuery(sql)
+   
+   When using the preparedStatement the sql query is passed when we are creating the prepared statement object.
+   
+3. statement does not pre compile the sql query
+	Preparedstatement pre  compiles the sql query.
+
+4. Statement is used when the query is fixed and same query needs to be
+	executed again and again without any changes.
+	PreparedStatements is used when we want change the values every time we want to execute it.
+	
+	
+5.  Statements commonly  used for select type query.
+	Insert, update, delete type queries are executed with the help of PreparedStatement. 

@@ -1,0 +1,12 @@
+[
+    {"id": 1, "code": "DISC10", "percentage": 10.0},
+    {"id": 2, "code": "SUMMER20", "percentage": 20.0},
+    {"id": 3, "code": "FALL15", "percentage": 15.0},
+    {"id": 4, "code": "WINTER25", "percentage": 25.0},
+    {"id": 5, "code": "SAVE30", "percentage": 30.0},
+    {"id": 6, "code": "SPRING18", "percentage": 18.0},
+    {"id": 7, "code": "FLASH50", "percentage": 50.0},
+    {"id": 8, "code": "EARLYBIRD12", "percentage": 12.0},
+    {"id": 9, "code": "HOLIDAY40", "percentage": 40.0},
+    {"id": 10, "code": "SPECIAL22", "percentage": 22.0}
+]

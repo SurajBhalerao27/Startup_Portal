@@ -1,0 +1,16 @@
+package practice;
+
+public class StaticDemo {
+	static int a = 20;
+	static {
+		printDemo();
+	}
+
+	public static void printDemo() {
+		System.out.println("This is static method block");
+	}
+
+	public static void main(String[] args) {
+		System.out.println("This is main block");
+	}
+}

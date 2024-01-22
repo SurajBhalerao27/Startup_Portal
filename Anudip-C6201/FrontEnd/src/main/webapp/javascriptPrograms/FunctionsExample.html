@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script>
+	function display() {
+		var obj = document.getElementById("para");
+		obj.innerText = "Hi";
+		<!-- obj.innerHTML = "<br><b>How are you </b>";-->
+	}
+
+	function displayBye() {
+		var obj = document.getElementById("para");
+		obj.innerText = "Bye";
+	}
+</script>
+</head>
+<body>
+	<p id="para" onmouseenter="display()" onmouseleave="displayBye()"
+		style="background-color: yellow; height: 100px; width: 150px"></p>
+</body>
+</html>

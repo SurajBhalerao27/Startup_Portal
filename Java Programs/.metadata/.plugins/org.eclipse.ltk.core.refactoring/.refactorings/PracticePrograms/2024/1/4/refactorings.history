@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;practice.MaxNumber&apos; to &apos;MaxNumberOfList&apos;&#x0D;&#x0A;- Original project: &apos;PracticePrograms&apos;&#x0D;&#x0A;- Original element: &apos;practice.MaxNumber&apos;&#x0D;&#x0A;- Renamed element: &apos;practice.MaxNumberOfList&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MaxNumber&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;practice{MaxNumber.java[MaxNumber" matchStrategy="1" name="MaxNumberOfList" qualified="false" references="true" similarDeclarations="false" stamp="1705846026310" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,9 @@
+Difference between wait()  and sleep() Methods
+
+|----------------------------------------------------------|------------------------------------------------|
+|          wait()										   |						sleep()					|
+|----------------------------------------------------------|------------------------------------------------|
+|1. wait() forcefully exits the thread to leave the obj.   | 1. sleep() halts for given number of seconds 	|
+|2. it is instance method								   | 2. it is static method							|
+|3. It is for the inter-thread communications			   | 3. It is "NOT" for inter-thread communication  |
+|----------------------------------------------------------|------------------------------------------------|

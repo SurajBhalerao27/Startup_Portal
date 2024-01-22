@@ -1,0 +1,12 @@
+[
+    {"id": 1, "reservation_id": 1, "cardNumber": "1234567812345678", "expirationDate": "12/25", "cvv": "123"},
+    {"id": 2, "reservation_id": 2, "cardNumber": "9876543210987654", "expirationDate": "09/23", "cvv": "456"},
+    {"id": 3, "reservation_id": 3, "cardNumber": "5678123456781234", "expirationDate": "06/22", "cvv": "789"},
+    {"id": 4, "reservation_id": 4, "cardNumber": "3210987654321098", "expirationDate": "03/24", "cvv": "234"},
+    {"id": 5, "reservation_id": 5, "cardNumber": "8765123456781234", "expirationDate": "11/26", "cvv": "567"},
+    {"id": 6, "reservation_id": 6, "cardNumber": "4321098765432109", "expirationDate": "08/23", "cvv": "890"},
+    {"id": 7, "reservation_id": 7, "cardNumber": "2345678123456781", "expirationDate": "05/22", "cvv": "345"},
+    {"id": 8, "reservation_id": 8, "cardNumber": "8765432109876543", "expirationDate": "02/25", "cvv": "678"},
+    {"id": 9, "reservation_id": 9, "cardNumber": "1234567812345678", "expirationDate": "10/24", "cvv": "901"},
+    {"id": 10, "reservation_id": 10, "cardNumber": "9876543210987654", "expirationDate": "07/23", "cvv": "234"}
+]

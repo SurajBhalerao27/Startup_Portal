@@ -1,0 +1,9 @@
+package practice;
+
+import java.util.List;
+
+public class MaxNumberOfList {
+	public static void main(String[] args) {
+		List<Integer> number = new List<Integer>();
+	}
+}

@@ -1,0 +1,20 @@
+Java Interfaces
+
+1 Interfaces in Java define a contract for classes, specifying a set of methods that must be implemented by those 
+  classes.
+	
+2 Interface methods are implicitly public and abstract.
+
+3 Classes that implement an interface must provide concrete implementations for all the methods declared in the 
+  interface.
+  
+4 Multiple interfaces can be implemented by a single class, allowing for multiple inheritance of method signatures.
+
+5 Starting from Java 8, interfaces can include default methods, providing default implementations for methods. 
+  Static methods are also allowed in interfaces.
+
+6 Interfaces can contain constant fields, which are implicitly public, static, and final.
+
+7 Interface inheritance is supported, allowing one interface to inherit the method signatures of another interface.
+
+8 Interfaces are widely used for achieving polymorphism and designing modular, maintainable code.

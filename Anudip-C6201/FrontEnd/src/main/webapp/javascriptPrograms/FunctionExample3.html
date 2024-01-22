@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Suraj's Page</title>
+<style>
+p {
+	border-color: black;
+	border-style: solid;
+}
+
+.btn {
+	border-color: black;
+	background-color: green;
+}
+
+.btn1 {
+	border-color: black;
+	background-color: blue;
+}
+
+.btn2 {
+	border-color: black;
+	background-color: yellow;
+}
+
+.btn3 {
+	border-color: black;
+	background-color: pink;
+}
+</style>
+<script>
+	function display(x) {
+		var obj = document.getElementById("box");
+		obj.innerText = "Valued Passed = " + x;
+	}
+</script>
+</head>
+<body>
+	<p id="box"></p>
+	<button onclick="display('Modern')" class="btn">Pass String</button>
+	<button onclick="display(10)" class="btn1">Pass Int</button>
+	<button onclick="display(true)" class="btn2">Pass Boolean</button>
+	<button onclick="display(10.23)" class="btn3">Pass Float</button>
+</body>
+</html>

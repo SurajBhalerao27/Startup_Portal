@@ -1,0 +1,16 @@
+package practice;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.Optional;
+
+public class MaxNumberOfList {
+	public static void main(String[] args) {
+		List<Integer> number = Arrays.asList(2, 5, 8, 9, 3, 4, 10);
+		System.out.println(maximumNumber(number));
+	}
+
+	private static Optional<Integer> maximumNumber(List<Integer> number) {
+		return number.stream().max(Integer::compareTo);
+	}
+}

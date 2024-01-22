@@ -1,0 +1,45 @@
+package practice;
+
+//public class DemoVariable {
+//	int a = 10;
+//	static int b = 20;
+//
+//	void m1() {
+//		a = 10;
+//		System.out.println(a);
+//	}
+//
+//	static void m2(int a) {
+//	  a = DemoVariable.b;
+//	  System.out.println(a);
+//	}
+//
+//	public static void main(String[] args) {
+//		DemoVariable dm = new DemoVariable();
+//		dm.m1();
+//		DemoVariable.m2(b);
+//		System.out.println();
+//	}
+//}
+
+public class DemoVariable {
+	int a = 10;
+	static int b = 20;
+
+	void m1() {
+		a = 10;
+		System.out.println(a);
+		m2();
+	}
+
+	static void m2() {
+		int a = DemoVariable.b;
+		System.out.println(a);
+	}
+
+	public static void main(String[] args) {
+		DemoVariable dm = new DemoVariable();
+		dm.m1();
+//		DemoVariable.m2();
+	}
+}
